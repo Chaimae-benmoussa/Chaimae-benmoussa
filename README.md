@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **java script, flutter, kotlin**
 
-- 📫 How to reach me **benmoussa.mahi.chaimae@gmail.com**
+- 📫 How to reach me **chaimae.benmoussamahi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
