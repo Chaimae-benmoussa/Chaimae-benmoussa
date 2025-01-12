@@ -1,12 +1,12 @@
 ![ezgif com-resize (1)](https://github.com/Chaimae-benmoussa/Chaimae-benmoussa/assets/165339450/d3662c13-1056-477d-93c6-f3facda00982)
 
 <h1 align="center">Hi 👋, I'm Benmoussa mahi Chaimae</h1>
-<h3 align="center">A novice web developer from Algeria</h3>
+<h3 align="center">A novice programmer from Algeria</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaimae-benmoussa&label=Profile%20views&color=0e75b6&style=flat" alt="chaimae-benmoussa" /> </p>
 
-- 🌱 I’m currently learning **java script, flutter, kotlin**
+- 🌱 I’m currently learning **java script, blockchain, solidity, smart contracts**
 
 - 📫 How to reach me **chaimae.benmoussamahi@gmail.com**
 
