@@ -1,11 +1,11 @@
 ![ezgif com-resize (1)](https://github.com/Chaimae-benmoussa/Chaimae-benmoussa/assets/165339450/d3662c13-1056-477d-93c6-f3facda00982)
 
 <h1 align="center">Hi 👋, I'm Benmoussa mahi Chaimae</h1>
-<h3 align="center">A novice programmer from Algeria</h3>
+<h3 align="center">A full stack dev from Algeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaimae-benmoussa&label=Profile%20views&color=0e75b6&style=flat" alt="chaimae-benmoussa" /> </p>
 
-- 🌱 I’m currently learning **java script, blockchain, solidity, smart contracts**
+- 🌱 I’m currently learning **blockchain, smart contracts**
 
 - 📫 How to reach me **chaimae.benmoussamahi@gmail.com**
 
@@ -48,8 +48,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/oracle/F80000" height="40" alt="oracle logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="40" alt="gradle logo"  />
   <img width="12" />
